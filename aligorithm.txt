@@ -27,3 +27,4 @@ Algorithm
 
 12 - else, end game and print message (Thanks for playing the game, your total score is {score})
 
+HI i am guillermo
